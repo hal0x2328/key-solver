@@ -1,4 +1,4 @@
-# Neo Key Solver
+# Neo Key Solver by kingsleyh
 
 This is a tool to find a valid WIF from an incorrectly written WIF which is then cross checked against a supplied public address
 
